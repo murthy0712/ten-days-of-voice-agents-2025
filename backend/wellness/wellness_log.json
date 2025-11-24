@@ -1,26 +1,14 @@
 [
     {
-        "timestamp": "2025-11-24T08:57:29.924999",
+        "timestamp": "2025-11-24T10:57:02.459052",
         "user_name": "Roy",
         "mood": "low",
         "energy": "low",
         "stress": "",
         "objectives": [
-            "Read a little from your book.",
-            "Go for a short walk."
+            "go for a walk",
+            "read a book"
         ],
-        "agent_summary": "Roy is feeling low with low energy. Suggested objectives are to read a little from his book and go for a short walk. Encouraged to take small, manageable steps for both activities."
-    },
-    {
-        "timestamp": "2025-11-24T08:58:08.958773",
-        "user_name": "Roy",
-        "mood": "Low",
-        "energy": "Low",
-        "stress": "",
-        "objectives": [
-            "Read a little from your book",
-            "Go for a short walk"
-        ],
-        "agent_summary": "Remember that even small steps count, especially on days with low mood and energy. Breaking down your objectives into very manageable parts, like a few pages of reading or a brief walk, can make them feel less daunting and still provide a sense of accomplishment."
+        "agent_summary": "Roy reported low mood and low energy. His objectives for the day are to go for a walk and read a book. Encouraged self-compassion and taking things at his own pace."
     }
 ]
