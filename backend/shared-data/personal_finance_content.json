@@ -1,0 +1,26 @@
+[
+  {
+    "id": "budgeting",
+    "title": "Budgeting",
+    "summary": "Budgeting is the process of creating a plan to spend your money. It helps you ensure you have enough for essentials, build savings, and reach financial goals. A common method is the 50/30/20 rule: 50% needs, 30% wants, 20% savings/debt repayment.",
+    "sample_question": "What is the 50/30/20 budgeting rule and why is it useful?"
+  },
+  {
+    "id": "saving",
+    "title": "Saving",
+    "summary": "Saving means setting aside a portion of income for future use. Emergency funds typically cover 3-6 months of expenses. High-yield savings accounts provide better interest than standard checking accounts.",
+    "sample_question": "How much should you aim to keep in an emergency fund and where should you keep it?"
+  },
+  {
+    "id": "debt",
+    "title": "Managing Debt",
+    "summary": "Managing debt involves understanding interest rates, prioritizing high-interest debt repayments, and choosing strategies like the snowball (smallest balance first) or avalanche (highest interest first).",
+    "sample_question": "Explain the difference between the debt snowball and debt avalanche methods."
+  },
+  {
+    "id": "investing",
+    "title": "Investing Basics",
+    "summary": "Investing means putting money into assets (stocks, bonds, funds) with the expectation of growth. Diversification, time horizon, and risk tolerance are key concepts. Index funds are a low-cost way to get diversified exposure.",
+    "sample_question": "Why is diversification important when investing?"
+  }
+]
