@@ -1,0 +1,26 @@
+[
+    {
+        "question": "What courses do you offer?",
+        "answer": "Smart Money offers investment-focused courses: 'Investment Fundamentals', 'Advanced Stock Strategies', 'Options & Derivatives Masterclass', and 'Portfolio Construction & Risk Management'."
+    },
+    {
+        "question": "How much does Investment Fundamentals cost?",
+        "answer": "The Investment Fundamentals course costs \u20b99,999 and includes lifetime access."
+    },
+    {
+        "question": "How much is Advanced Stock Strategies?",
+        "answer": "Advanced Stock Strategies costs \u20b924,999 and includes 6 live workshops."
+    },
+    {
+        "question": "Do you offer corporate training?",
+        "answer": "Yes \u2014 we offer corporate and group investment training. Pricing depends on scope."
+    },
+    {
+        "question": "Do you offer free content?",
+        "answer": "Yes \u2014 Smart Money regularly publishes free weekly market lessons on YouTube."
+    },
+    {
+        "question": "Do you support INR and Angel One payments?",
+        "answer": "Yes \u2014 all courses are available in INR with Angel One-powered payment options."
+    }
+]
